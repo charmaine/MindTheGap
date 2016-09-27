@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MindTheGap.iml" filepath="$PROJECT_DIR$/MindTheGap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MindTheGapTests/MindTheGapTests.iml" filepath="$PROJECT_DIR$/../MindTheGapTests/MindTheGapTests.iml" />
+    </modules>
+  </component>
+</project>
